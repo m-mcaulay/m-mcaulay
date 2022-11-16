@@ -1,4 +1,4 @@
-👋 Hi, I’m Moira 
+👋 Hi there, I’m Moira 
 
 
 <!---
