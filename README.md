@@ -1,5 +1,4 @@
-👋 Hi there, I’m Moira 
-
+👋 Hi there, I’m Moira, a Frontend Engineer building performant, accesible and scalable web apps
 
 <!---
 m-mcaulay/m-mcaulay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
